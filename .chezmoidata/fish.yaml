@@ -1,0 +1,4 @@
+fish:
+  paths:
+    - .local/bin
+    - .krew/bin
